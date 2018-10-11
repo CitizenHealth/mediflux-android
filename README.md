@@ -5,7 +5,6 @@
   <h1 align="center">MediFlux for Android</h1>
 </p>
 <p align="center">
-  <a href=""><img src="https://img.shields.io/cocoapods/v/AFNetworking.svg" alt="NPM version"></a>
   <a href="/LICENSE"><img src="https://img.shields.io/packagist/l/doctrine/orm.svg" alt="License"></a>
   <a href="https://twitter.com/citizenhealth"><img src="https://img.shields.io/twitter/follow/CitizenHealthio.svg?style=social&logo=twitter&label=Follow" alt="Follow on Twitter"></a>
 </p>
